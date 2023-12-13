@@ -1,0 +1,7 @@
+{
+  "name": "derg",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
